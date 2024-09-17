@@ -7,10 +7,12 @@ clases en python v2
 ![image](https://github.com/user-attachments/assets/a866343f-79a1-4a1a-878b-60f79aa8b30a)
 
 # codigo
-![image](https://github.com/user-attachments/assets/9c72c48a-5733-4652-847d-3aada355d8f0)
+![image](https://github.com/user-attachments/assets/e2501752-6d6a-434d-b12a-e094a8419965)
+
 
 
 #resultado
-![image](https://github.com/user-attachments/assets/96c4d12d-62e1-4774-9e7a-abc9c9467ef7)
+![image](https://github.com/user-attachments/assets/acb0ef3e-db85-4184-b5f8-a9b79da73815)
+
 
 
